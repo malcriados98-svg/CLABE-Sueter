@@ -44,7 +44,7 @@ margin-top: 15px;
 
 <script>
 // REEMPLAZA ESTOS NÚMEROS CON TU CLABE REAL (18 DÍGITOS)
-const miClabe = "012345678901234567";
+const miClabe = "014078566405550400";
 
 function copiarClabe() {
 navigator.clipboard.writeText(miClabe).then(() => {
